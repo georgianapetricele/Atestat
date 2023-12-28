@@ -1,0 +1,127 @@
+.cont1 {
+  position: relative;
+  width:100%;
+    height:500px;
+  margin: 0 auto;
+}
+.harta{
+    display: flex;
+    padding:0px 20px 0px 20px;
+    text-align: left;
+}
+.sub{
+    padding:0px 0px 0px 50px;
+}
+.cont1{
+    margin-top: 80px;
+}
+.cont1 .cont2 {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1; 
+  width: 1255px; 
+height: 50px;
+  padding: 10px 20px 40px 20px;
+    margin-left: 23px;
+}
+.imagini{
+   margin:40px 0px 0px 98px;
+}
+.paragraf{
+    padding:10px 40px 20px 30px;
+}
+h3{
+    padding:5px 0px 0px 0px;
+}
+.sub, p, h1,ul, b,i{
+   font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+}
+.sub{
+    font-weight: bold;
+    font-size: 28px;
+    color:#007366;
+}
+ul, li, .ul2, .li1{
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+    list-style-type: circle;
+}
+.a1{
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+    color:darkblue;
+}
+
+figure:hover {
+bottom: -36px;
+    opacity: 100%;
+}
+
+.hover01 figure img {
+
+transform: scale(0.7);
+transition: .3s ease-in-out;
+    opacity: 100%;
+}
+
+.hover01 figure:hover img {
+
+transform: scale(0.8);
+    opacity: 100%;
+}
+
+.hover figure img {
+
+transform: scale(0.8);
+transition: .3s ease-in-out;
+    opacity: 100%;
+}
+
+.hover figure:hover img {
+opacity: 100%;
+transform: scale(0.9);
+}
+.div3{
+    background-color: #eee;
+    display: flex;
+    width: 100%;
+    height: 1500px;
+}
+.rama{
+    border: 5px solid #f7e8ad;
+    widows: 200px;
+}
+html, .div2 {
+        position: relative;
+        height: 20%;
+      }
+
+      .div2 {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper {
+          margin-top: 80px;
+        width: 100%;
+        padding-top: 50px;
+      }
+
+      .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+      }
