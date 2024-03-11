@@ -1,5 +1,5 @@
 # Top 10 locations from Apuseni Mountains
-For the final High School project I made a webpage for promoting Apuseni Mountains using HTML, CSS and SwiperJS
+Designed a webpage for promoting Apuseni Mountains using HTML, CSS and Javascript library-SwiperJS
 
 # Demo
 - Home page\
